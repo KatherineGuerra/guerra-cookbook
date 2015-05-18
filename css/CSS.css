@@ -7,4 +7,6 @@ body{
     margin: 100px;
     color: inherit;
     background: transparent;
+    background-color: white;
+    opacity: 3.2;
 }
