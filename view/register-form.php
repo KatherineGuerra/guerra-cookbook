@@ -1,7 +1,9 @@
 <?php
     require_once(__DIR__ . "/../model/config.php");
 ?>
-
+<button type="button" class="btn btn-default btn-lg">
+  <span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true"></span> Star
+</button>
 
 <h1>Register</h1>
 
