@@ -1,10 +1,15 @@
 <?php
     require_once(__DIR__ . "/../model/config.php");
 ?>
-<button type="button" class="btn btn-default btn-lg">
-  <span class="glyphicon glyphicon-circle-arrow-left" aria-hidden="true"></span> Star
-</button>
-
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="css/bootstrap-theme.css">
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.css">
+    <link type="text/css" rel="stylesheet" href="css/CSS.css">
+    <title></title>
+</head>
+<a class="btn btn-large" href="index.php"><i class="icon-star"></i> return</a>
 <h1>Register</h1>
 
 <form method='post' action='<?php echo $path . "homescreen.php"; ?>'>

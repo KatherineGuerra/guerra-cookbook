@@ -13,7 +13,7 @@ and open the template in the editor.
         <link type="text/css" rel="stylesheet" href="css/CSS.css">
         <title></title>
     </head>
-    <body>
+    <body class="body">
         <div class="jumbotron">
             <h1>Dessert book</h1>
             <p>This is where you can find dessert recipes</p>
