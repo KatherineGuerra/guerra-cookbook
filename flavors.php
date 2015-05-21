@@ -12,10 +12,10 @@
         <a href="homescreen.php">Home ~</a>
         <a href="dessert.php">My Recipes ~</a>
         <a href="gallery.php">Gallery ~</a>
-        <a href="flavors.php">Flavors ~</a>
+        <a id="current-link" href="flavors.php">Flavors ~</a>
         <a href="login.php">Logout</a>
         
-        <br> <p id="desserts">Desserts</p>
-        <img>
-
+        <br> <p id="flavors">Cake Flavors</p>
+        <br> <p> </p>
 </body>
+

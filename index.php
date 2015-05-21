@@ -15,9 +15,9 @@ and open the template in the editor.
     </head>
     <body class="body">
         <div class="jumbotron">
-            <h1>Dessert book</h1>
-            <p>This is where you can find dessert recipes</p>
-            <p><a class="btn btn-primary btn-lg" href="login.php" role="button">Join Now</a></p>
+            <h1 class="h1">Dessert book</h1>
+            <p class="p">This is where you can find dessert recipes</p>
+            <p class="joinnow"><a class="btn btn-primary btn-lg" href="login.php" role="button">Join Now</a></p>
         </div>
         <?php
         // put your code here

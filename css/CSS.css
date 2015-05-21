@@ -1,7 +1,7 @@
 .body{
-   background-image: url('../ingredients.jpg');
-   background-size: cover;
-   background-repeat: no-repeat;
+    background-image: url('../ingredients.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .jumbotron{
     margin: 100px;
@@ -9,4 +9,70 @@
     background: transparent;
     background-color: white;
     opacity: 3.2;
+    padding: 100px;
 }
+#homescreen{
+    background-image: url('../bg_top.jpg');
+    background-position: top center;
+    background-size: initial;
+    background-repeat: no-repeat;   
+}
+a {
+    color: #653517;
+    font-size: 20px;
+}
+a:hover {
+    color: #ff227e;
+
+
+}
+/*#ff227e*/
+.h1, .p{
+    margin-left: 250px;
+}
+.joinnow{
+    margin-left: 370px;
+}
+
+#carousel-example-generic, img, .carousel-caption, .item, .item active{
+    margin: 200px;
+    height: 500px;
+    width: auto;
+
+}
+#suggestion{
+    margin-top: 1px;
+    font-size: 40px;
+}
+a{
+    margin: 1px;
+}
+.logo{
+    width: auto;
+    height: 100px;
+    position: relative;
+    margin-top: 85px;
+}
+#current-link{
+    color: #ff227e;
+}
+#desserts{
+    margin-top: 1px;
+    font-size: 40px;
+    color: #653517;
+    font-family: JosefinSlabRegula;
+}
+#gallery{
+    margin-top: 1px;
+    font-size: 40px;
+    font-family: JosefinSlabRegula;
+    color: #653517;
+}
+#flavors{
+    margin-top: 1px;
+    font-size: 40px;
+    font-family: JosefinSlabRegula;
+    color: #653517; 
+}
+
+

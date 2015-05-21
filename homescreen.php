@@ -8,26 +8,14 @@
     <title></title>
 </head>
 <body id="homescreen">
-    <header>
-    <nav>
-    <div class="dropdown">
-        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
-            Dropdown
-            <span class="caret"></span>
-        </button>
-        <!--this dropdown menu will link to other pages-->
-        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-<!--    <li role="presentation"><a role="menuitem" tabindex="-1" href="index.html">About</a></li>-->
-            <li role="presentation"><a role="menuitem" tabindex="-1" id="current-link-active" href="homescreen.php">Home</a></li>
-            <li role="presentation"><a role="menuitem" tabindex="-1" href="logout-user.php">Logout</a></li>
-
-
-        </ul>
-    </div>
-    </nav>
-    </header>
-    <div>
-        <h1><a href="dessert.php">Suggestions</a></h1>
+    <img src="2015_05_19_21_05_47_Sweets_Perfection_l.jpg_552_294_.png" alt="" class="logo"/>
+        <a id="current-link" href="homescreen.php">Home ~</a>
+        <a href="dessert.php">My Recipes ~</a>
+        <a href="gallery.php">Gallery ~</a>
+        <a href="flavors.php">Flavors ~</a>
+        <a href="login.php">Logout</a>
+        
+        <br> <a href="dessert.php" id="suggestion">Suggestions</a>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -39,15 +27,17 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <img src="..." alt="...">
+                    <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="lava">
                     <div class="carousel-caption">
-                        <h2>hi</h2>
+                        
+                        <p></p>
                     </div>
                 </div>
                 <div class="item">
-                    <img src="..." alt="...">
+                    <img src="Strawberry-Red-Velvet-Cupcakes1-700x350.jpg" alt="" class="redvelvet">
                     <div class="carousel-caption">
-                        ...
+                        
+                        <p>hi</p>
                     </div>
                 </div>
                 ...
@@ -63,6 +53,7 @@
                 <span class="sr-only">Next</span>
             </a>
         </div>
-    </div>
-                
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+         <script src="js/bootstrap.min.js"></script>       
 </body>
