@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body id="homescreen">
-    <img src="2015_05_19_21_05_47_Sweets_Perfection_l.jpg_552_294_.png" alt="" class="logo"/>
+    <img src="unnamed.png" alt="" class="logo"/>
         <a id="current-link" href="homescreen.php">Home ~</a>
         <a href="dessert.php">My Recipes ~</a>
         <a href="gallery.php">Gallery ~</a>
@@ -45,11 +45,11 @@
 
             <!-- Controls -->
             <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span  aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
             </a>
             <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span  aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
             </a>
         </div>
@@ -57,3 +57,5 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
          <script src="js/bootstrap.min.js"></script>       
 </body>
+<!--class="glyphicon glyphicon-chevron-right"-->
+<!--class="glyphicon glyphicon-chevron-left"-->

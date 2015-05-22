@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body id="homescreen">
-    <img src="2015_05_19_21_05_47_Sweets_Perfection_l.jpg_552_294_.png" alt="" class="logo"/>
+    <img src="unnamed.png" alt="" class="logo"/>
         <a href="homescreen.php">Home ~</a>
         <a href="dessert.php">My Recipes ~</a>
         <a href="gallery.php">Gallery ~</a>
@@ -16,6 +16,8 @@
         <a href="login.php">Logout</a>
         
         <br> <p id="flavors">Cake Flavors</p>
-        <br> <p> </p>
+        <br> <pre class="text-right">
+             Chocolate 
+             </pre>
 </body>
 

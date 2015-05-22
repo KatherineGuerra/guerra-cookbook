@@ -35,11 +35,13 @@ a:hover {
 }
 
 #carousel-example-generic, img, .carousel-caption, .item, .item active{
-    margin: 200px;
-    height: 500px;
-    width: auto;
+    margin: 0 auto;
+    
 
 }
+/**margin: 200px;
+    height: 500px;
+    width: auto;**/
 #suggestion{
     margin-top: 1px;
     font-size: 40px;
@@ -72,7 +74,35 @@ a{
     margin-top: 1px;
     font-size: 40px;
     font-family: JosefinSlabRegula;
-    color: #653517; 
+    color: #653517;    
 }
-
-
+.text-right{
+    width:300px;
+    margin-bottom: 15px;
+    float:left;
+    overflow-style: auto;
+}
+.image_rounded{
+    width: 200;
+    height: 140;
+}
+#moltenlava{
+    width: 500;
+    height: 300;
+    text-align: center;
+}
+ul{
+    width:300px;
+    margin-bottom: 15px;
+    float:left;   
+}
+ol{
+    width:300px;
+    margin-bottom: 15px;
+    float: right;
+    color: #653517;
+    font-size: 20px;
+}
+/*.carousel-inner  .item   .lava .redvelvet {
+   margin: 0 auto;
+}*/

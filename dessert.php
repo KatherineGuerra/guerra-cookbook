@@ -8,14 +8,15 @@
     <title></title>
 </head>
 <body id="homescreen">
-    <img src="2015_05_19_21_05_47_Sweets_Perfection_l.jpg_552_294_.png" alt="" class="logo"/>
+    <img src="unnamed.png" alt="" class="logo"/>
         <a href="homescreen.php">Home ~</a>
         <a href="dessert.php">My Recipes ~</a>
         <a href="gallery.php">Gallery ~</a>
         <a href="flavors.php">Flavors ~</a>
         <a href="login.php">Logout</a>
         
-        <br> <p id="desserts">Desserts</p>
-        <img>
+        <br> <p id="desserts">Cakes</p>
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="lavacake.php">molten lava cake</a>
 
 </body>
