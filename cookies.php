@@ -17,10 +17,10 @@
         
         <br> <p id="desserts">Cookies</p>
         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="lavacake.php">molten lava cake</a>
+        <a href="chocolatechip.php">chocolate chip</a>
          <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-         <a href="vanillacake.php">Vanilla cake</a>
+         <a href="vanillacake.php">red velvet</a>
         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="lemoncake.php">Lemon cake</a>
+        <a href="lemoncake.php">sugar cookies</a>
         <a href="">See more</a>
 </body>

@@ -40,5 +40,10 @@
             <li>Mix 1/2 cup water with the cream in a liquid measuring cup or bowl. Beat the flour mixture
             into the butter mixture in 3 batches, alternating with the cream mixture, beginning and ending 
             with flour, until smooth.</li>
+            <li>Divide the batter between the prepared pans. 
+            Bake until the cakes are lightly golden on top and the centers spring back when pressed, 
+            25 to 30 minutes. let it cool 10 minutes, then run a knife around the edge of the pans and turn the cakes out onto the racks to cool completely.
+            Remove the parchment. Trim the tops of the cakes with a long serrated knife to make them level, if desired.
+            </li>
         </ol>
 </body>
