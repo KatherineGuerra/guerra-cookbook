@@ -15,7 +15,7 @@
         <a href="flavors.php">Flavors ~</a>
         <a href="login.php">Logout</a>
         
-        <br> <a href="dessert.php" id="suggestion">Suggestions</a>
+        <br> <p id="suggestion">Suggestions</p>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">

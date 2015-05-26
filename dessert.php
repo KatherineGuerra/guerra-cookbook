@@ -18,5 +18,27 @@
         <br> <p id="desserts">Cakes</p>
         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
         <a href="lavacake.php">molten lava cake</a>
-
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="vanillacake.php">Vanilla cake</a>
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="lemoncake.php">Lemon cake</a>
+        <a href="cakes.php">See more</a>
+        
+        <br> <p id="desserts">Cookies</p>
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="lavacake.php">molten lava cake</a>
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="vanillacake.php">Vanilla cake</a>
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="lemoncake.php">Lemon cake</a>
+        <a href="cookies.php">See more</a>
+        
+        <br> <p id="desserts">Cupcakes</p>
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="lavacake.php">molten lava cake</a>
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="vanillacake.php">Vanilla cake</a>
+        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <a href="lemoncake.php">Lemon cake</a>
+        <a href="cupcakes.php">See more</a>
 </body>
