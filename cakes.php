@@ -18,9 +18,9 @@
         <br> <p id="desserts">Cakes</p>
         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
         <a href="lavacake.php">molten lava cake</a>
-         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <img src="vanillacake.jpg" alt="" class="image_rounded"/>
          <a href="vanillacake.php">Vanilla cake</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+         <img src="lemoncake.jpg" alt="" class="image_rounded"/>
         <a href="lemoncake.php">Lemon cake</a>
         
 </body>

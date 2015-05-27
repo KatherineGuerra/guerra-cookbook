@@ -16,11 +16,11 @@
         <a href="login.php">Logout</a>
         
         <br> <p id="desserts">Cupcakes</p>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="lavacake.php">molten lava cake</a>
-         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-         <a href="vanillacake.php">Vanilla cake</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="lemoncake.php">Lemon cake</a>
+        <img src="vanillacupcake.jpg" alt="" class="image_rounded"/>
+        <a href="lavacake.php">vanilla cupcake</a>
+         <img src="chocolatecupcake.jpg" alt="" class="image_rounded"/>
+         <a href="vanillacake.php">chocolate velvet cupcake</a>
+         <img src="redvelvetcupcake.jpg" alt="" class="image_rounded"/>
+        <a href="lemoncake.php">red velvet cupcake</a>
         <a href="">See more</a>
 </body>

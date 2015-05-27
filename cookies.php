@@ -16,11 +16,11 @@
         <a href="login.php">Logout</a>
         
         <br> <p id="desserts">Cookies</p>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <img src="chocolatechipcookie.jpg" alt="" class="image_rounded"/>
         <a href="chocolatechip.php">chocolate chip</a>
-         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <img src="redcookie.jpg" alt="" class="image_rounded"/>
          <a href="vanillacake.php">red velvet</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+         <img src="sugarcookie.jpg" alt="" class="image_rounded"/>
         <a href="lemoncake.php">sugar cookies</a>
         
 </body>

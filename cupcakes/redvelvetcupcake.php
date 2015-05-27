@@ -17,26 +17,27 @@
         <a href="login.php">Logout</a>
         
         <br> <p id="suggestion">Red Velvet Cupcake</p>
-        <img src="redcookie.jpg" alt="" id="moltenlava"/>
+        <img src="redvelvetcupcake.jpg" alt="" id="moltenlava"/>
         <p>ingredients</p>
         <ul style="list-style-type:circle">
-            <li>1/2 cup salted butter, softened </li>
-            <li>1 cup packed light brown sugar </li>
-            <li>2 teaspoons vanilla </li>
-            <li>1 egg </li>
-            <li>2 teaspoons red gel or liquid food color (use 2 1/2 teaspoons if needed)</li>
-            <li>1 3/4 cups Original Bisquick™ mix </li>
-            <li>1/4 cup unsweetened baking cocoa </li>
-            <li>1 cup white vanilla baking chips (add 1/2 cup more if desired) </li>
+            <li>1 teaspoon water</li>
+            <li>1 bottle (1 oz) red food color</li>
+            <li>1 box Betty Crocker™ SuperMoist™ German chocolate cake mix</li>
+            <li>1 cup water</li>
+            <li>1/2 cup vegetable oil</li>
+            <li>3 eggs</li>
+            <li>2 tablespoons unsweetened baking cocoa</li>
+            <li>1 container Betty Crocker™ Rich & Creamy cream cheese frosting </li>
         </ul>
-
-
 
         <p>Directions</p>
         <ol type="1">
-            <li>Heat oven to 350°F. Line 2 cookie sheets with silicone baking mats or cooking parchment paper.</li>
-            <li>In large bowl, beat butter and brown sugar with electric mixer on medium speed until light and fluffy. Beat in vanilla, egg and food color. Add Bisquick mix and baking cocoa; beat on low speed until combined. Stir in chips.</li>
-            <li>Drop dough by rounded tablespoonfuls about 2 inches apart on cookie sheets.</li>
-            <li> Bake 8 to 10 minutes, but no longer than 10 minutes (mine were perfect at 8 minutes). The cookies will look underdone, but this is what you want. Cool on cookie sheets 5 minutes. Remove from cookie sheets to cooling racks. </li>
+            <li>Heat oven to 350°F (325°F for dark or nonstick pans). Place paper baking cup in each of 24 regular-size muffin cups. To make red food 
+                color paint, in small bowl, mix 1 teaspoon water and 3 to 4 drops of the food color; set aside.</li>
+            <li>In large bowl, beat cake mix, 1 cup water, the oil, eggs, cocoa and remaining food color from bottle with electric mixer on low speed 30 seconds, 
+                then on medium speed 2 minutes, scraping bowl occasionally. Divide batter evenly among muffin cups.</li>
+            <li>Bake and cool completely as directed on box for cupcakes.</li>
+            <li>Frost tops of cupcakes with frosting. Using a fine-tip brush, paint cupcakes with red food color paint, 
+                swirling paint to create design. Store loosely covered at room temperature.</li>
         </ol>
 </body>
