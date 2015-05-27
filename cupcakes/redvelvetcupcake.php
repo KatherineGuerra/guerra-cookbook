@@ -16,7 +16,7 @@
         <a href="flavors.php">Flavors ~</a>
         <a href="login.php">Logout</a>
         
-        <br> <p id="suggestion">Red Velvet Cookies</p>
+        <br> <p id="suggestion">Red Velvet Cupcake</p>
         <img src="redcookie.jpg" alt="" id="moltenlava"/>
         <p>ingredients</p>
         <ul style="list-style-type:circle">

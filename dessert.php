@@ -18,27 +18,27 @@
         <br> <p id="desserts">Cakes</p>
         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
         <a href="lavacake.php">molten lava cake</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <img src="vanillacake.jpg" alt="" class="image_rounded"/>
         <a href="vanillacake.php">Vanilla cake</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
+        <img src="lemoncake.jpg" alt="" class="image_rounded"/>
         <a href="lemoncake.php">Lemon cake</a>
         <a href="cakes.php">See more</a>
         
         <br> <p id="desserts">Cookies</p>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="lavacake.php">molten lava cake</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="vanillacake.php">Vanilla cake</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="lemoncake.php">Lemon cake</a>
+        <img src="chocolatechipcookie.jpg" alt="" class="image_rounded"/>
+        <a href="chocolatechip.php">Chocolate chip</a>
+        <img src="redcookie.jpg" alt="" class="image_rounded"/>
+        <a href="redvelvetcookies.php">Red velvet</a>
+        <img src="sugarcookie.jpg" alt="" class="image_rounded"/>
+        <a href="lemoncake.php">Sugar cookies</a>
         <a href="cookies.php">See more</a>
         
         <br> <p id="desserts">Cupcakes</p>
+        <img src="vanillacupcake.jpg" alt="" class="image_rounded"/>
+        <a href="lavacake.php">vanilla cupcake</a>
+        <img src="chocolatecupcake.jpg" alt="" class="image_rounded"/>
+        <a href="vanillacake.php">chocolate velvet cupcake</a>
         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="lavacake.php">molten lava cake</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="vanillacake.php">Vanilla cake</a>
-        <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
-        <a href="lemoncake.php">Lemon cake</a>
+        <a href="lemoncake.php">red velvet cupcake</a>
         <a href="cupcakes.php">See more</a>
 </body>
