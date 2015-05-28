@@ -10,16 +10,17 @@
 </head>
 <body id="homescreen">
     <img src="unnamed.png" alt="" class="logo"/>
-        <a id="current-link" href="homescreen.php">Home ~</a>
-        <a href="dessert.php">My Recipes ~</a>
-        <a href="gallery.php">Gallery ~</a>
-        <a href="flavors.php">Flavors ~</a>
+    <nav>
+        <a id="current-link" href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a href="flavors.php">Flavors •</a>
         <a href="login.php">Logout</a>
-        
-        <br> <p id="suggestion">Chocolate velvet cupcake</p>
+    </nav> 
+        <br> <center id="suggestion">Chocolate Velvet Cupcake</center>
         <img src="chocolatecupcake.jpg" alt="" id="moltenlava"/>
-        <p>ingredients</p>
+        
         <ul style="list-style-type:circle">
+            <center><p>Ingredients</p></center>
             <li>1 box Betty Crocker™ SuperMoist™ devil's food cake mix  </li>
             <li>1 cup sour cream  </li>
             <li>1/2 cup milk  </li>
@@ -28,9 +29,9 @@
             <li>1 to 2 teaspoons butter flavor or vanilla  </li>
             <li>2 heaping tablespoons unsweetened baking cocoa  </li>
             <li>1 cup chocolate chips (6 oz) </li>            
-        </ul>
-        <p>Frosting</p>
-        <ul style="list-style-type:circle">
+        
+        <center><p>Frosting</p></center>
+        
             <li>1 package (8 oz) cream cheese, softened </li>
             <li>1/2 cup butter or margarine, softened</li>
             <li>3 1/2 to 4 cups powdered sugar </li>
@@ -38,8 +39,9 @@
             <li>24 chocolate curls </li>
         </ul>
 
-        <p>Directions</p>
+        
         <ol type="1">
+            <center id="font">Directions</center> 
             <li>Heat oven to 350°F (325°F for dark or nonstick pan). Place paper baking cup in each of 24 regular-size muffin cups.</li>
             <li>In large bowl, beat all cupcake ingredients except chocolate chips with electric mixer on medium speed about 2 minutes, or until well blended.
                 Stir in chocolate chips. Divide batter evenly among muffin cups.</li>

@@ -8,18 +8,22 @@
     <link type="text/css" rel="stylesheet" href="css/CSS.css">
     <title></title>
 </head>
+
 <body id="homescreen">
-    <img src="unnamed.png" alt="" class="logo"/>
-        <a id="current-link" href="homescreen.php">Home ~</a>
-        <a href="dessert.php">My Recipes ~</a>
-        <a href="gallery.php">Gallery ~</a>
-        <a href="flavors.php">Flavors ~</a>
+   
+    
+         <img src="unnamed.png" alt="" class="logo"/><br>
+    <nav>
+        <a id="current-link" href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a href="flavors.php">Flavors •</a>
         <a href="login.php">Logout</a>
-        
-        <br> <p id="suggestion">Lava Cake</p>
+    </nav> 
+<br> <center id="suggestion">Lava Cake</center>
         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" id="moltenlava"/>
-        <p>ingredients</p>
+        
         <ul style="list-style-type:circle">
+            <center><p>Ingredients</p></center>
             <li>unsweetened baking cocoa</li>
             <li>6 oz semisweet baking chocolate, chopped</li>
             <li>1/2 cup plus 2 tablespoons butter or margarine</li>
@@ -29,8 +33,9 @@
             <li>1/2 cup Gold Medal™ all-purpose flour*</li>
             <li>Additional powdered sugar, if desired</li>
         </ul>
-        <p>Directions</p>
+        
         <ol type="1">
+            <center id="font">Directions</center> 
             <li>Heat oven to 450°F. Grease bottoms and sides of six (6-oz) custard cups with shortening; dust with cocoa. 
                 In 2-quart saucepan, melt chocolate and butter over low heat, stirring frequently. 
                 Cool slightly.</li>
@@ -40,4 +45,5 @@
                 Immediately place heatproof serving plate upside down over each cup; turn plate and cup over.
                 Remove cup. Sprinkle with additional powdered sugar. Garnish with kumquats. Serve warm.</li>
         </ol>
+</center>
 </body>

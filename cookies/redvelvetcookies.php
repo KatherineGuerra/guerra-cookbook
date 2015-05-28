@@ -10,16 +10,17 @@
 </head>
 <body id="homescreen">
     <img src="unnamed.png" alt="" class="logo"/>
-        <a id="current-link" href="homescreen.php">Home ~</a>
-        <a href="dessert.php">My Recipes ~</a>
-        <a href="gallery.php">Gallery ~</a>
-        <a href="flavors.php">Flavors ~</a>
+    <nav>
+        <a id="current-link" href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a href="flavors.php">Flavors •</a>
         <a href="login.php">Logout</a>
-        
-        <br> <p id="suggestion">Red Velvet Cookies</p>
+    </nav> 
+        <br> <center id="suggestion">Red Velvet Cookies</center>
         <img src="redcookie.jpg" alt="" id="moltenlava"/>
-        <p>ingredients</p>
+        
         <ul style="list-style-type:circle">
+            <center><p>Ingredients</p></center>
             <li>1/2 cup salted butter, softened </li>
             <li>1 cup packed light brown sugar </li>
             <li>2 teaspoons vanilla </li>
@@ -30,10 +31,8 @@
             <li>1 cup white vanilla baking chips (add 1/2 cup more if desired) </li>
         </ul>
 
-
-
-        <p>Directions</p>
         <ol type="1">
+            <center id="font">Directions</center>
             <li>Heat oven to 350°F. Line 2 cookie sheets with silicone baking mats or cooking parchment paper.</li>
             <li>In large bowl, beat butter and brown sugar with electric mixer on medium speed until light and fluffy. Beat in vanilla, egg and food color. Add Bisquick mix and baking cocoa; beat on low speed until combined. Stir in chips.</li>
             <li>Drop dough by rounded tablespoonfuls about 2 inches apart on cookie sheets.</li>

@@ -10,16 +10,18 @@
 </head>
 <body id="homescreen">
     <img src="unnamed.png" alt="" class="logo"/>
-        <a id="current-link" href="homescreen.php">Home ~</a>
-        <a href="dessert.php">My Recipes ~</a>
-        <a href="gallery.php">Gallery ~</a>
-        <a href="flavors.php">Flavors ~</a>
+    <nav>
+        <a id="current-link" href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a href="flavors.php">Flavors •</a>
         <a href="login.php">Logout</a>
-        
-        <br> <p id="suggestion">Chocolate chip cookies</p>
+    </nav>
+    
+        <br> <center id="suggestion">Chocolate chip</center>
         <img src="chocolatechipcookie.jpg" alt="" id="moltenlava"/>
-        <p>ingredients</p>
+        
         <ul style="list-style-type:circle">
+            <center><p>Ingredients</p></center>
             <li>1/2 cup (1 stick) unsalted butter</li>
             <li>3/4 cup packed dark brown sugar</li>
             <li>3/4 cup sugar</li>
@@ -30,8 +32,9 @@
             <li>3/4 teaspoon baking soda</li>
             <li>1 teaspoon fine salt</li>
         </ul>
-        <p>Directions</p>
+       
         <ol type="1">
+            <center id="font">Directions</center>
             <li>Evenly position 2 racks in the middle of the oven and preheat to 375 degrees F.
                 (on convection setting if you have it.) Line 2 baking sheets with parchment paper or silicone sheets. 
                 (If you only have 1 baking sheet, let it cool completely between batches.)

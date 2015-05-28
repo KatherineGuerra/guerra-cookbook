@@ -9,15 +9,32 @@
 </head>
 <body id="homescreen">
     <img src="unnamed.png" alt="" class="logo"/>
-        <a href="homescreen.php">Home ~</a>
-        <a href="dessert.php">My Recipes ~</a>
-        <a href="gallery.php">Gallery ~</a>
-        <a id="current-link" href="flavors.php">Flavors ~</a>
+    <nav>  
+        <a href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a  href="flavors.php">Flavors •</a>
         <a href="login.php">Logout</a>
-        
+    </nav>  
+    <article>
         <br> <p id="flavors">Cake Flavors</p>
-        <br> <pre class="text-right">
-             Chocolate 
-             </pre>
+        <br> <ul style="list-style-type:circle" id='cakeflavor'>
+            <li>Vanilla</li>
+            <li>Lava Cake</li>
+            <li>Lemon Cake</li>
+        </ul>
+        <p id='cookieflavors'>Cookie Flavors</p>
+        <ul style="list-style-type:circle" id='cookieflavor'>
+            <li>Chocolate chip</li>
+            <li>Red Velvet</li>
+            <li>Sugar Cookies</li>
+        </ul>
+        <p id='cupcakeflavors'>Cupcake Flavors</p>
+        <ul style="list-style-type:circle" id='cupcakeflavor'>
+            <li>Chocolate</li>
+            <li>Coconut</li>
+            <li>Red Velvet</li>
+            <li>Vanilla</li>
+        </ul>
+    </article>
 </body>
 

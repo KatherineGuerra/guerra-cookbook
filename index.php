@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
+
 <html>
     <head>
         <meta charset="UTF-8">
@@ -15,11 +10,11 @@ and open the template in the editor.
     </head>
     <body class="body">
         <div class="jumbotron">
-            <h1 class="h1">Dessert book</h1>
+            <h1 class="h1">Sweet Recipes</h1>
             <p class="p">This is where you can find dessert recipes</p>
             <p class="joinnow"><a class="btn btn-primary btn-lg" href="login.php" role="button">Join Now</a></p>
         </div>
         <?php
-        // put your code here
+        
         ?>
     

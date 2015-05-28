@@ -10,16 +10,17 @@
 </head>
 <body id="homescreen">
     <img src="unnamed.png" alt="" class="logo"/>
-        <a href="homescreen.php">Home ~</a>
-        <a href="dessert.php">My Recipes ~</a>
-        <a href="gallery.php">Gallery ~</a>
-        <a href="flavors.php">Flavors ~</a>
+    <nav>
+        <a href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a href="flavors.php">Flavors •</a>
         <a href="login.php">Logout</a>
-        
-        <br> <p id="suggestion">Lemon Cake</p>
+    </nav>   
+        <br> <center id="suggestion">Lemon Cake</center>
         <img src="lemoncake.jpg" alt="" id="moltenlava"/>
-        <p>ingredients</p>
+       
         <ul style="list-style-type:circle">
+            <center><p>Ingredients</p></center>
             <li>2 sticks unsalted butter, at room temperature</li>
             <li>2 1/2 cups granulated sugar, divided</li>
             <li>4 large eggs, at room temperature</li>
@@ -33,8 +34,9 @@
             <li>1 teaspoon pure vanilla extract</li>
            
       </ul>
-        <p>Directions</p>
+       
         <ol type="1">
+            <center id="font">Directions</center> 
             <li>Cream the butter and 2 cups granulated sugar in the bowl of an electric mixer fitted with the paddle attachment, the key to great cakes is beating the butter and sugar until the mixture's until light and fluffy, about 5 minutes. 
                 With the mixer on medium speed add the eggs, (break the eggs into a dish before adding to the batter to avoid a bad egg or shells in the batter) 1 at a time,
                 and the lemon zest. Sift together the flour, to make sure there are no lumps, baking powder, baking soda, and salt in a bowl. Separately, combine 1/4 cup lemon juice, 

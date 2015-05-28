@@ -9,12 +9,13 @@
 </head>
 <body id="homescreen">
     <img src="unnamed.png" alt="" class="logo"/>
-        <a href="homescreen.php">Home ~</a>
-        <a href="dessert.php">My Recipes ~</a>
-        <a href="gallery.php">Gallery ~</a>
-        <a href="flavors.php">Flavors ~</a>
+    <nav>
+        <a href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a href="flavors.php">Flavors •</a>
         <a href="login.php">Logout</a>
-        
+    </nav> 
+    <article>
         <br> <p id="desserts">Cakes</p>
         <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="image_rounded"/>
         <a href="lavacake.php">molten lava cake</a>
@@ -30,15 +31,16 @@
         <img src="redcookie.jpg" alt="" class="image_rounded"/>
         <a href="redvelvetcookies.php">Red velvet</a>
         <img src="sugarcookie.jpg" alt="" class="image_rounded"/>
-        <a href="sugarcookie.jpg.php">Sugar cookies</a>
+        <a href="sugarcookies.php">Sugar cookies</a>
         <a href="cookies.php">See more</a>
         
         <br> <p id="desserts">Cupcakes</p>
         <img src="vanillacupcake.jpg" alt="" class="image_rounded"/>
-        <a href="lavacake.php">vanilla cupcake</a>
+        <a href="vanillacupcake.php">Vanilla cupcake</a>
         <img src="chocolatecupcake.jpg" alt="" class="image_rounded"/>
-        <a href="vanillacake.php">chocolate velvet cupcake</a>
+        <a href="chocolatecupcake.php">Chocolate cupcake</a>
         <img src="redvelvetcupcake.jpg" alt="" class="image_rounded"/>
-        <a href="lemoncake.php">red velvet cupcake</a>
+        <a href="redvelvetcupcake.php">Red velvet cupcake</a>
         <a href="cupcakes.php">See more</a>
+    </article>
 </body>

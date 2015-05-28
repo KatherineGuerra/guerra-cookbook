@@ -9,12 +9,13 @@
 </head>
 <body id="homescreen">
     <img src="unnamed.png" alt="" class="logo"/>
-        <a href="homescreen.php">Home ~</a>
-        <a href="dessert.php">My Recipes ~</a>
-        <a href="gallery.php">Gallery ~</a>
-        <a href="flavors.php">Flavors ~</a>
+    <nav>
+        <a href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a href="flavors.php">Flavors •</a>
         <a href="login.php">Logout</a>
-        
+    </nav>
+    <article>
         <br> <p id="desserts">Cookies</p>
         <img src="chocolatechipcookie.jpg" alt="" class="image_rounded"/>
         <a href="chocolatechip.php">chocolate chip</a>
@@ -22,5 +23,5 @@
          <a href="vanillacake.php">red velvet</a>
          <img src="sugarcookie.jpg" alt="" class="image_rounded"/>
         <a href="lemoncake.php">sugar cookies</a>
-        
+    </article>   
 </body>
