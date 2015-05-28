@@ -9,6 +9,7 @@
 </head>
 <body id="homescreen">
     <img src="unnamed.png" alt="" class="logo"/>
+    <!--    this tag will also appear on this page-->
     <nav>
         <a href="homescreen.php">Home •</a>
         <a href="dessert.php">My Recipes •</a>
@@ -20,8 +21,8 @@
         <img src="chocolatechipcookie.jpg" alt="" class="image_rounded"/>
         <a href="chocolatechip.php">chocolate chip</a>
         <img src="redcookie.jpg" alt="" class="image_rounded"/>
-         <a href="vanillacake.php">red velvet</a>
-         <img src="sugarcookie.jpg" alt="" class="image_rounded"/>
+        <a href="vanillacake.php">red velvet</a>
+        <img src="sugarcookie.jpg" alt="" class="image_rounded"/>
         <a href="lemoncake.php">sugar cookies</a>
     </article>   
 </body>

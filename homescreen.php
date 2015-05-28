@@ -8,13 +8,13 @@
     <title></title>
 </head>
 <body id="homescreen">
-    
+    <!--    I made my own logo on this page-->
     <img src="unnamed.png" alt="" class="logo"/>
     <nav>
-    <a id="current-link" href="homescreen.php">Home •</a>
-    <a href="dessert.php">My Recipes •</a>
-    <a href="flavors.php">Flavors •</a>
-    <a href="login.php">Logout</a>
+        <a id="current-link" href="homescreen.php">Home •</a>
+        <a href="dessert.php">My Recipes •</a>
+        <a href="flavors.php">Flavors •</a>
+        <a href="login.php">Logout</a>
     </nav>
     <br> <p id="suggestion">Suggestions</p>
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -27,6 +27,7 @@
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
+            <!--            Each of theses images are recipes but you are not able to click them  -->
             <div class="item active">
                 <img src="19a2ba8c-0821-4444-ae1e-373329298faa.jpg" alt="" class="lava">
                 <div class="carousel-caption">
@@ -36,13 +37,13 @@
             <div class="item">
                 <img src="coconutcupcake.jpg" alt="" class="lava">
                 <div class="carousel-caption">
-                    
+
                 </div>
             </div>
             <div class="item">
                 <img src="sugarcookie.jpg" alt="" class="lava">
                 <div class="carousel-caption">
-                    
+
                 </div>
             </div>
             ...
@@ -62,5 +63,3 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>       
 </body>
-<!--class="glyphicon glyphicon-chevron-right"-->
-<!--class="glyphicon glyphicon-chevron-left"-->

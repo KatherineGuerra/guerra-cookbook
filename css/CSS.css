@@ -1,7 +1,15 @@
 .body{
+    /*these background image will be on the font page of the project*/
     background-image: url('../ingredients.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+}
+#unnamed{
+    background-image: url('../unnamed2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    margin-left: 200px;
 }
 .jumbotron{
     margin: 100px;
@@ -28,8 +36,6 @@ a {
 }
 a:hover {
     color: #ff227e;
-
-
 }
 /*#ff227e*/
 .h1, .p{
@@ -40,15 +46,14 @@ a:hover {
 }
 
 #carousel-example-generic,  .carousel-caption, .item, .item active{
+    /**the carousel was complicated to find the right spot to put it
+    and to put the image in the center of the carousel and i still didnt get right**/
     margin: 0 auto;
     margin-left: 200px;
     width: 900px;
     height: 500px;
 
 }
-/**margin: 200px;
-    height: 500px;
-    width: auto;**/
 #suggestion{
     margin-top: 1px;
     font-size: 40px;
@@ -56,22 +61,24 @@ a:hover {
     margin-left: 200px;
 }
 nav{
-   margin-left: 200px; 
-    
+    margin-left: 200px; 
+
 }
 #nav{
     margin-left: 200px; 
 }
 article{
+    /*I used article to make it less difficult to move the code on the page*/
     margin-left: 200px;
 }
+/*I created my own logo for the website*/
 .logo{
     margin-left: 200px;
     width: auto;
     height: 100px;
     position: relative;
     margin-top: 85px;
-    
+
 }
 #current-link{
     color: #ff227e;
@@ -96,13 +103,13 @@ article{
     font-size: 25px;
 }
 #cookieflavor{
-   margin-top: 1px; 
+    margin-top: 1px; 
     font-family: JosefinSlabRegula;
     color: #653517; 
     font-size: 25px; 
 }
 #cupcakeflavor{
-   margin-top: 1px; 
+    margin-top: 1px; 
     font-family: JosefinSlabRegula;
     color: #653517; 
     font-size: 25px; 
@@ -135,7 +142,7 @@ ul{
     margin-left: 200px;
     color: #653517;
     font-size: 15px;
-    
+
 }
 ol{
     width:990px;
@@ -151,6 +158,4 @@ p{
 center{
     font-size: 25px;
 }
-/*.carousel-inner  .item   .lava .redvelvet {
-   margin: 0 auto;
-}*/
+
