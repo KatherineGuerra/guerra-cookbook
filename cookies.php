@@ -24,5 +24,8 @@
         <a href="vanillacake.php">red velvet</a>
         <img src="sugarcookie.jpg" alt="" class="image_rounded"/>
         <a href="lemoncake.php">sugar cookies</a>
+        <br>
+        <img src="tart.jpg" alt="" class="image_rounded"/>
+        <a href="cookietarts.php">Cookie Tart</a>
     </article>   
 </body>

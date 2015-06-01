@@ -9,7 +9,7 @@
 </head>
 <!--I did not have enough time to fix the position of this code on the website-->
 <body id="homescreen">
-<!--    made my own logo-->
+    <!--    made my own logo-->
     <img src="unnamed.png" alt="" class="logo"/>
     <!--    theses navs will appear on every page-->
     <nav>  
@@ -21,24 +21,29 @@
     <!--    I tried to add a article to move the text on the page but its difficult 
         because the paragraph tag would move around-->
     <article>
-        <br> <p id="flavors">Cake Flavors</p>
+
         <br> <ul style="list-style-type:circle" id='cakeflavor'>
+            <br> <center id="flavors">Cake Flavors</center>
             <li>Vanilla</li>
             <li>Lava Cake</li>
             <li>Lemon Cake</li>
         </ul>
-        <p id='cookieflavors'>Cookie Flavors</p>
+        <br>
         <ul style="list-style-type:circle" id='cookieflavor'>
+            <br> <center id='cookieflavors'>Cookie Flavors</center>
             <li>Chocolate chip</li>
             <li>Red Velvet</li>
             <li>Sugar Cookies</li>
+            <li>Tart</li>
         </ul>
-        <p id='cupcakeflavors'>Cupcake Flavors</p>
+        <br>
         <ul style="list-style-type:circle" id='cupcakeflavor'>
+            <br>   <center id='cupcakeflavors'>Cupcake Flavors</center>
             <li>Chocolate</li>
             <li>Coconut</li>
             <li>Red Velvet</li>
             <li>Vanilla</li>
+            <li>Lemon</li>
         </ul>
     </article>
 </body>

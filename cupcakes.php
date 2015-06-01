@@ -22,10 +22,12 @@
         <img src="vanillacupcake.jpg" alt="" class="image_rounded"/>
         <a href="vanillacupcake.php">vanilla cupcake</a>
         <img src="chocolatecupcake.jpg" alt="" class="image_rounded"/>
-        <a href="vanillacake.php">chocolate velvet cupcake</a>
+        <a href="vanillacake.php"> velvet cupcake</a>
         <img src="redvelvetcupcake.jpg" alt="" class="image_rounded"/>
         <a href="lemoncake.php">red velvet cupcake</a>
         <img src="coconutcupcake.jpg" alt="" class="image_rounded"/>
-        <a href="double-coconutcupcake.php">Double-Coconut Cupcake</a>
+        <a href="double-coconutcupcake.php">coconut cupcake</a>
+        <img src="lemoncup.jpg" alt="" class="image_rounded"/>
+        <a href="lemoncupcake.php">Lemon Cupcake</a>
     </article>
 </body>

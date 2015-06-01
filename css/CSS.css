@@ -22,7 +22,6 @@
 .lava{
     width:500px;
     height:300px;
-    float: contour;
 }
 #homescreen{
     background-image: url('../bg_top.jpg');
@@ -37,7 +36,7 @@ a {
 a:hover {
     color: #ff227e;
 }
-/*#ff227e*/
+
 .h1, .p{
     margin-left: 250px;
 }
@@ -91,35 +90,53 @@ article{
 }
 
 #flavors{
-    margin-top: 1px;
+    margin-top: 1px; 
     font-size: 40px;
+    alignment-adjust: after-edge;
     font-family: JosefinSlabRegula;
     color: #653517;    
-}
+}.
 #cakeflavor{
-    margin-top: 1px; 
+     
     font-family: JosefinSlabRegula;
     color: #653517; 
+    margin-left: 1px;
     font-size: 25px;
+    position: absolute;
+    
 }
-#cookieflavor{
-    margin-top: 1px; 
+#cupcakeflavors{
+    font-size: 40px;   
     font-family: JosefinSlabRegula;
-    color: #653517; 
-    font-size: 25px; 
+    color: #653517;
+    margin-left: 350px;
+    margin-top: 1px;
+    
 }
 #cupcakeflavor{
-    margin-top: 1px; 
+    margin-right: 100px; 
     font-family: JosefinSlabRegula;
     color: #653517; 
     font-size: 25px; 
 }
 #cookieflavors{
-    margin-right: 100px;
+    margin-top: 1px;
+    margin-right: 1px;
+    alignment-adjust: before-edge;
+    margin-left: 100px;
     font-size: 40px;
     font-family: JosefinSlabRegula;
     color: #653517;  
 }
+#cookieflavor{
+    margin-top: 1px; 
+    font-family: JosefinSlabRegula;
+    color: #653517; 
+    margin-right: 100px;
+    font-size: 25px; 
+}
+
+
 .text-right{
     width:300px;
     margin-bottom: 15px;
@@ -127,12 +144,12 @@ article{
     overflow-style: auto;
 }
 .image_rounded{
-    width: 200;
-    height: 140;
+    width: 200px;
+    height: 140px;
 }
 #moltenlava{
-    width: 500;
-    height: 300;
+    width: 500px;
+    height: 300px;
     text-align: center;
 }
 ul{
